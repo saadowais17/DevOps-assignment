@@ -28,3 +28,8 @@ section {
     padding: 10px;
     width: calc(100% - 20px);
 }
+#certifications {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
